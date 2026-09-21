@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://poeifj.cn/sitemap.xml
